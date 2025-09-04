@@ -143,11 +143,11 @@ header {
 }
 
 .left-panel {
-  background: url('/Vaha-Landing-Page-main/Image/W6.png') no-repeat center center/cover;
+  background: url('/Image/W6.png') no-repeat center center/cover;
 }
 
 .left2-panel {
-  background: url('/Vaha-Landing-Page-main/Image/W7.png') no-repeat center center/cover;
+  background: url('/Image/W7.png') no-repeat center center/cover;
 }
 
 
@@ -468,4 +468,5 @@ a:hover {
   left: 0;
   background-color: var(--accent);
   transition: width 0.3s ease;
+
 }
